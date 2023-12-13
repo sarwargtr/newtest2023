@@ -22,6 +22,10 @@ public class DataTest {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
 }
+	public void logintTest()
+	{
+		System.out.println("hello dataTest");
+	}
 	
 
 }
